@@ -1,0 +1,596 @@
+[
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-112b528c",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "description": "Automata - Fix (New): A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to\u2026",
+    "duration": "max 20 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-64b1c21c",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Core Java (Entry Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+    "duration": "13 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-07d9cc5b",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Java 8 (New): Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "duration": "18 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-e100067a",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Core Java (Advanced Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics\u2026",
+    "duration": "13 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-interper-584c5313",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "description": "Interpersonal Communications: This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage\u2026",
+    "duration": "15 to 35 minutes",
+    "adaptive_support": true,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-fdaf78b4",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "description": "Entry level Sales 7.1 (International): The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their\u2026",
+    "duration": "20 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; C: Competency Assessments; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-1cbd141b",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "description": "Entry Level Sales Sift Out 7.1: The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their\u2026",
+    "duration": "20 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; C: Competency Assessments; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-1eea5754",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "Entry Level Sales Solution: The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have\u2026",
+    "duration": "20 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "C: Competency Assessments; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-3be4169e",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "description": "Sales Representative Solution: The Sales Representative solution is for entry-level sales positions in which employees proactively sell products to customers and have their pay and/or\u2026",
+    "duration": "29 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-business-ab176ef7",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "description": "Business Communication (adaptive): This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers\u2026",
+    "duration": "24 minutes",
+    "adaptive_support": true,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-6ca5ce20",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "description": "Technical Sales Associate Solution: The Technical Sales Associate solution is for entry-level retail positions in which employees proactively sell a specific line of products that requires\u2026",
+    "duration": "41 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-7e2c0a04",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "description": "SVAR - Spoken English (Indian Accent)  (New): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding.     Your use of\u2026",
+    "duration": "in minutes =",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-9ec8b247",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "duration": "0 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-enterpri-5f3d862c",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "Enterprise Leadership Report 1.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.  For\u2026",
+    "duration": "nan",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; C: Competency Assessments; D: Development & Feedback Tools; E: Assessment Exercises; K: Knowledge & Skills Tests; P: Personality Assessments; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-occupati-34efa7db",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world\u2026",
+    "duration": "in minutes = Untimed, approx",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-1cfd3cea",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "description": "OPQ Leadership Report: This OPQ (Occupational Personality Questionnaire) report provides a detailed analysis of an individual's leadership potential.  It is based on SHL's leading\u2026",
+    "duration": "nan",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; C: Competency Assessments; D: Development & Feedback Tools; E: Assessment Exercises; K: Knowledge & Skills Tests; P: Personality Assessments; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-8435a4e7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
+    "description": "OPQ Team Types and Leadership Styles Report: This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles.  Belbins team types\u2026",
+    "duration": "nan",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; C: Competency Assessments; D: Development & Feedback Tools; E: Assessment Exercises; K: Knowledge & Skills Tests; P: Personality Assessments; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-enterpri-6a7ffdf7",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "Enterprise Leadership Report 2.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.  For\u2026",
+    "duration": "nan",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; C: Competency Assessments; D: Development & Feedback Tools; E: Assessment Exercises; K: Knowledge & Skills Tests; P: Personality Assessments; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-129bbbfe",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "description": "Global Skills Assessment: The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most\u2026",
+    "duration": "16 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "C: Competency Assessments; K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-b8679598",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "description": "Verify - Verbal Ability - Next Generation: The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and\u2026",
+    "duration": "15 minutes",
+    "adaptive_support": true,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-665f03e4",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "SHL Verify Interactive - Inductive Reasoning: Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+    "duration": "20 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-61129153",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "description": "Marketing (New): Multi-choice test that measures the conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management\u2026",
+    "duration": "9 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-english--5bd47575",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "duration": "0 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-03c2da66",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "description": "Drupal (New): Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+    "duration": "17 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-8a0e2d6f",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "description": "Written English v1: The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language\u2026",
+    "duration": "30 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-bd08c7a0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world\u2026",
+    "duration": "in minutes = Untimed, approx",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-1cd37f4a",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "description": "Search Engine Optimization (New): Multi-choice test that measures the knowledge on the concepts of need of SEO, SEO planning, SEO strategies, SEO software, tools and exchanging links.",
+    "duration": "12 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-ced22293",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "description": "Automata Selenium: A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+    "duration": "60 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-products-product-catalog-view-professi-180c3c4e",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "description": "Professional + 7.1 (International): Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative\u2026",
+    "duration": "56 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; C: Competency Assessments; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-32d3b06a",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "description": "JavaScript (New): Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+    "duration": "9 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-12f222fb",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "description": "HTML/CSS (New): Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
+    "duration": "12 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-95894378",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "description": "CSS3 (New): Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+    "duration": "8 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-f6aca243",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "description": "Selenium (New): Multi-choice test that measures the knowledge of Selenium IDE, Selenium RC, Selenium grid, web driver, test design considerations, user extensions, frameworks\u2026",
+    "duration": "10 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-3fc6f1e6",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "description": "SQL Server (New): Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple\u2026",
+    "duration": "11 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-47308b7d",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "description": "Automata - SQL (New): A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "duration": "max 30 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-e0fb1923",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Manual Testing (New): Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test\u2026",
+    "duration": "10 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-ec5e242c",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "Administrative Professional - Short Form: The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office\u2026",
+    "duration": "36 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; K: Knowledge & Skills Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-af2af1f5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "description": "Verify - Numerical Ability: The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the\u2026",
+    "duration": "20 minutes",
+    "adaptive_support": true,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-47ee97ae",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "description": "Financial Professional - Short Form: This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure\u2026",
+    "duration": "35 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-80fe1447",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "description": "Bank Administrative Assistant - Short Form: The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs\u2026",
+    "duration": "35 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; K: Knowledge & Skills Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-361ce6bd",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "description": "General Entry Level \u2013 Data Entry 7.0 Solution: Our General Entry Level \u2013 Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems\u2026",
+    "duration": "24 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-49199730",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "description": "Basic Computer Literacy (Windows 10) (New): The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform\u2026",
+    "duration": "30 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-b0e1517f",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "description": "Manager 8.0+ JFA: The Manager 8.0+ Job-Focused Assessment is designed for candidates applying to their first leadership positions and includes SHL\u2019s new innovative mobile-first\u2026",
+    "duration": "44 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; K: Knowledge & Skills Tests; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-537d26cf",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "description": "Microsoft Excel 365 - Essentials (New): The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the\u2026",
+    "duration": "30 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-36716839",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "description": "Digital Advertising (New): Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
+    "duration": "7 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-891885c7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "description": "WriteX - Email Writing (Sales) (New): Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.     Your use\u2026",
+    "duration": "15 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-526cd4d3",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "description": "SHL Verify Interactive Numerical Calculation: The Verify Interactive Numerical Calculation test measures a candidate\u2019s ability to work with numbers and use appropriate mathematics in different situations\u2026",
+    "duration": "10 minutes",
+    "adaptive_support": true,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-a9456ecd",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "description": "Professional + 7.1 (International): Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative\u2026",
+    "duration": "56 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "B: Behavioral & Situational Judgment Tests; C: Competency Assessments; P: Personality Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-a2d2a18e",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "description": "SQL Server Analysis Services (SSAS) (New): Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI\u2026",
+    "duration": "15 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-9f9f499d",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "description": "Python (New): Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+    "duration": "11 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-9ae6f3c3",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "description": "Tableau (New): Multi-choice test that measures the knowledge of how to use Tableau to prepare tables, create visualizations, perform calculations, apply filters and carry out\u2026",
+    "duration": "8 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-61e4c7d7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "Microsoft Excel 365 (New): The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics\u2026",
+    "duration": "35 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests; S: Simulations & Interactive Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-67e2f459",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "description": "Professional + 7.0 Solution: Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative\u2026",
+    "duration": "51 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "A: Ability & Aptitude Tests; B: Behavioral & Situational Judgment Tests; C: Competency Assessments"
+    ]
+  },
+  {
+    "id": "wwwshlcom-solutions-products-product-catalog-vie-faa94a2b",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "description": "Data Warehousing Concepts: The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and\u2026",
+    "duration": "25 minutes",
+    "adaptive_support": false,
+    "remote_support": true,
+    "test_type": [
+      "K: Knowledge & Skills Tests"
+    ]
+  }
+]

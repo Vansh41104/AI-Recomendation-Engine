@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHL Assessment Recommendation Engine</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 SHL Assessment Recommendation Engine</h1>
+            <p class="subtitle">Find the perfect assessment for your needs</p>
+        </header>
+
+        <div class="main-content">
+            <div class="left-panel">
+                <div class="search-section">
+                    <div class="input-group">
+                        <label class="input-label">What are you looking for?</label>
+                        <textarea 
+                            id="queryInput" 
+                            placeholder="Describe your requirements... (e.g., 'I need a cognitive ability test for remote candidates that takes about 30 minutes')"
+                        ></textarea>
+                        <button id="searchBtn" onclick="searchRecommendations()">
+                            <span class="btn-text">Get Recommendations</span>
+                            <span class="spinner" style="display: none;">⏳</span>
+                        </button>
+                    </div>
+                    <div id="errorMessage" class="error-message" style="display: none;"></div>
+                </div>
+
+                <div id="queryHistory" class="query-history" style="display: none;">
+                    <h3>Recent Queries</h3>
+                    <div id="historyContainer"></div>
+                </div>
+            </div>
+
+            <div class="right-panel">
+                <div id="resultsSection" class="results-section" style="display: none;">
+                    <h2>📋 Recommended Assessments</h2>
+                    <div id="resultsContainer"></div>
+                </div>
+
+                <div id="loadingSection" class="loading-section" style="display: none;">
+                    <div class="loader"></div>
+                    <p>Searching for the best recommendations...</p>
+                </div>
+
+                <div id="emptyState" class="loading-section">
+                    <p style="color: #999;">Enter your query on the left to get started</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
