@@ -24,7 +24,7 @@ This project uses a modular architecture with the following components:
 
 1. **Clone the repository**:
    ```powershell
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Vansh41104/AI-Recomendation-Engine.git)
    cd AI-Recomendation-Engine
    ```
 
